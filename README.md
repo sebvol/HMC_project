@@ -4,7 +4,7 @@
 
 
 
-In this project, we implement the computational techniques presented in the article [1]. Our goal is to simulate mid-price estimations which is often hindered by limited data transparency. By applying particle filtering and sequential Monte-Carlo methods as outlined in the article, we aim to capture the nuances of bond data and overcome the shortcomings of traditional estimation filters. This simulation project seeks to provide a practical application of the theoretical framework proposed in the article, offering insights into the market's pricing mechanisms and enhancing decision-making tools for market analysts.
+In this project, we implement the computational techniques presented in the article [1]. Our goal is to simulate mid-price estimations which is often hindered by limited data transparency. By applying particle filtering and sequential Monte-Carlo methods as outlined in the article, we aim to capture the nuances of bond data and overcome the shortcomings of traditional estimation filters. This simulation project seeks to provide a practical application of the theoretical framework proposed by Olivier Guéant and Jiang Pu, offering insights into the market's pricing mechanisms and enhancing decision-making tools for market analysts.
 
 *For a detailed explanation of each implementation please refer to the comments in the file.*
 
@@ -12,7 +12,7 @@ In this project, we implement the computational techniques presented in the arti
 
 ## Getting started 🚀
 
-**We provide necessary informations to run our code and doing the simulation.**
+**We provide necessary informations to run our code and do the simulation.**
 
 ### Particle Filter
 
