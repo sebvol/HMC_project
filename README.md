@@ -1,4 +1,4 @@
-# [Hidden Markov Models project](https://github.com/SinPalo/Hidden_Markov_Models_project)
+# [Hidden Markov Models project](https://github.com/sebvol/HMC_project)
 
 ![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg)
 
